@@ -45,15 +45,15 @@ public class C3Model {
     SA_Statistics sens;
     /* Object to store and print relevant statistics for sensitivity analysis */
     Technology TR_TEC;
-    /* Transistor (TR) technology                                             */
+    /* Object Transistor (TR) technology                                             */
     Technology MP_TEC;
-    /* Microprocessor (MP) technology                                         */
+    /* Object Microprocessor (MP) technology                                         */
     Industry  computerIndustry;
-    /* Supply side of computer industry                                       */
+    /* Object Supply side of computer industry                                       */
     UserClass largeOrgs;
-    /* Large organizations (LO) user class                                    */
+    /* Object Large organizations (LO) user class                                    */
     UserClass smallUsers;
-    /* Small users and individuals (SUI) user class                           */
+    /* Object Small users and individuals (SUI) user class                           */
     
     // PARAMETERS
     int endTime;

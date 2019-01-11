@@ -25,7 +25,7 @@ public class C3Model {
     Random RNG;
     /* Random number generator                                                */
     Parameter[] parameters;
-    /* Array containing all information about the parameters                  */
+    /* Parameter Class type Array containing all information about the parameters                  */
     String[] paramIN;
     /* Array containing parameters about the industry supply side             */
     String[] paramTR;

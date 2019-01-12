@@ -1,11 +1,11 @@
-Number of Periods (T) = 2
-Number of Simulations = 10
-Number of Iterations = 10
-Entry of MP Firms (TMP) = 3
+Number of Periods (T) = 150
+Number of Simulations = 1000
+Number of Iterations = 1000
+Entry of MP Firms (TMP) = 35
 Introduction of MP Tech (TAD) = 30
 Minimum Threshold for Diversification (lambdaDV) = 2@0.1§d
 --IN-S- INDUSTRY PARAMETERS = 32
-Time to Develop a Project (TD) = 5
+Time to Develop a Project (TD) = 35
 Cost of R&D (CRD) = 0.001@0.1§d
 Fraction of Profits to Adverstising (phiA) = 0.1@0.1§d
 Scale Parameter for Marketing (a0) = 1

@@ -64,5 +64,6 @@ public class Manager {
 
         System.out.println("Simulation Success !");
         System.out.println("Simulation Success !");
+        System.out.println("Simulation Success !");
     }
 }

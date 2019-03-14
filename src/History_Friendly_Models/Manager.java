@@ -63,7 +63,5 @@ public class Manager {
         //model_ch5.makeMultipleSimulation();
 
         System.out.println("Simulation Success !");
-        System.out.println("Simulation Success !");
-        System.out.println("Simulation Success !");
     }
 }
